@@ -1,19 +1,9 @@
-El grupo # (Presencial – Definido en clase / virtual - Sala asignada)
-Indicar el Líder (Apellidos Nombre – Carrera - Motivo)
-Indicar los integrantes en orden (Apellidos Nombre – Carrera)
-Cómo realizaron la división del taller
-
-Grupo #4
-[Lider] Tingo Borbor Carlos - Computación - Porque estoy en medio
-Palma Reyes Kevin - Telematica - Domotica
-Mateo Orellana Daniel Alfredo - Computación
-Carlos - Estructuras
-Daniel - Funciones
-Kevin - Registro
-
-
--------------------------------------------------------------
-link del video
--------------------------------------------------------------
-
-https://www.youtube.com/watch?v=8YtXWkfY10U
+Cree un programa en C que realice lo siguiente solicitado en el taller # 1 pero con los siguientes cambios:
+Los datos de los usuarios válidos se encuentran en un archivo .txt que se encuentre en el mismo directorio (Rol, usuario, y clave) y cualquier actualización se debe reflejar en el archivo.
+Los datos de los productos deben estar en un archivo .txt en el mismo directorio y cualquier actualización se debe reflejar en el archivo.
+Los datos de las ventas deben estar en un archivo .txt en el mismo directorio y cualquier actualización se debe reflejar en el archivo.
+Los datos de las estructuras deben ser ordenadas para ocupar el menor espacio posible
+El sistema debe poder identificar el rol del usuario y permite realizar lo siguiente:
+El administrador debe poder crear/actualizar usuarios
+El Bodeguero debe poder crear/actualizar productos
+El Vendedor debe poder registrar ventas de productos
